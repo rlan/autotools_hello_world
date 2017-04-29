@@ -1,4 +1,4 @@
-autotools_hello_world
+autotools_hello_world  [![Build Status](https://travis-ci.org/rlan/autotools_hello_world.svg?branch=master)](https://travis-ci.org/rlan/autotools_hello_world)
 ============
 
 This package is an GNU Autotools starter template project. It is a starting
