@@ -1,8 +1,3 @@
 test:
-    pre:
-        - cd autotools_hello_world
-        - ./boostrap
-        - ./configure
-        - make
     override:
-        - make check
+        - ./test/test
