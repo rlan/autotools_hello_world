@@ -1,9 +1,12 @@
+autotools_hello_world
+============
+
 This package is an GNU Autotools starter template project. It is a starting
 point for a C++ project.
 
 
-ENVIRONMENT
------------
+## ENVIRONMENT
+
 Tested under:
 * Mac OS Sierra
 * Xcode 8.2.1
@@ -13,23 +16,22 @@ Tested under:
 	* gcc: stable 6.3.0 (bottled), HEAD
 
 
-HOWTO
------
+## HOWTO
+
 To build this program, start from the root folder:
   ./bootstrap
   ./configure
   make
 
 
-RUNNING
--------
+## RUNNING
+
 After compiling, run test program:
   $ ./test/test
   Hello World
 
 
-LICENSE
--------
+## LICENSE
 
 Copyright 2017 Rick Lan
 
