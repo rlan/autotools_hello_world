@@ -1,6 +1,0 @@
-dependencies:
-    pre:
-        - sudo apt-get install automake autoconf
-test:
-    override:
-        - ./test/test
