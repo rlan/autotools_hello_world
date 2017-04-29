@@ -19,17 +19,19 @@ Tested under:
 ## HOWTO
 
 To build this program, start from the root folder:
+```shell
   ./bootstrap
   ./configure
   make
-
+```
 
 ## RUNNING
 
 After compiling, run test program:
+```shell
   $ ./test/test
   Hello World
-
+```
 
 ## LICENSE
 
